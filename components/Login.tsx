@@ -35,8 +35,8 @@ export const Login: React.FC = () => {
              <div className="w-16 h-16 bg-indigo-50 rounded-[1.5rem] flex items-center justify-center mx-auto mb-6">
                 <Lock className="text-indigo-600" size={32} />
              </div>
-             <h2 className="text-3xl font-black text-slate-800 tracking-tight mb-2">OmniChef POS</h2>
-             <p className="text-slate-400 font-medium">Enterprise Management System</p>
+             <h2 className="text-3xl font-black text-slate-800 tracking-tight mb-2">ZMSystem</h2>
+             <p className="text-slate-400 font-medium">Mennan & Baguerri Service</p>
           </div>
 
           <form onSubmit={handleSubmit} className="space-y-6">
@@ -87,13 +87,13 @@ export const Login: React.FC = () => {
           </form>
 
           <div className="mt-8 pt-8 border-t border-slate-100">
-             <p className="text-center text-[10px] text-slate-300 font-black uppercase tracking-widest">Demo Credentials</p>
+             <p className="text-center text-[10px] text-slate-300 font-black uppercase tracking-widest">M&B Services</p>
              <div className="mt-4 grid grid-cols-2 gap-2">
                 <div className="bg-slate-50 p-2 rounded-xl text-[9px] text-slate-500 font-bold border border-slate-100">
-                   Admin: <span className="text-indigo-600">superadmin / admin1</span>
+                    <span className="text-indigo-600"> 2025 - 2026</span>
                 </div>
                 <div className="bg-slate-50 p-2 rounded-xl text-[9px] text-slate-500 font-bold border border-slate-100">
-                   Staff: <span className="text-indigo-600">serveur1 / serveur1</span>
+                    <span className="text-indigo-600"> Your Project in Your Hands</span>
                 </div>
              </div>
           </div>
