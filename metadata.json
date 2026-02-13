@@ -1,0 +1,7 @@
+{
+  "name": "OmniChef POS - Enterprise Restaurant Management",
+  "description": "A professional-grade restaurant management system featuring a complete order lifecycle: Server creation, Barista/Chef preparation, Cashier processing, and Super Admin oversight with real-time analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
