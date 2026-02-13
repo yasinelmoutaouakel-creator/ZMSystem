@@ -88,14 +88,6 @@ export const Login: React.FC = () => {
 
           <div className="mt-8 pt-8 border-t border-slate-100">
              <p className="text-center text-[10px] text-slate-300 font-black uppercase tracking-widest">M&B Services</p>
-             <div className="mt-4 grid grid-cols-2 gap-2">
-                <div className="bg-slate-50 p-2 rounded-xl text-[9px] text-slate-500 font-bold border border-slate-100">
-                    <span className="text-indigo-600"> 2025 - 2026</span>
-                </div>
-                <div className="bg-slate-50 p-2 rounded-xl text-[9px] text-slate-500 font-bold border border-slate-100">
-                    <span className="text-indigo-600"> Your Project in Your Hands</span>
-                </div>
-             </div>
           </div>
         </div>
       </div>
