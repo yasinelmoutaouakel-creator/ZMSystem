@@ -39,7 +39,7 @@ export const Layout: React.FC<{ children: React.ReactNode }> = ({ children }) =>
       <aside className="w-64 bg-slate-900 text-white flex flex-col shrink-0">
         <div className="p-6 flex items-center gap-3">
           <div className="w-8 h-8 bg-indigo-500 rounded-lg flex items-center justify-center font-black">O</div>
-          <span className="text-xl font-black tracking-tighter">OMNITCHEF</span>
+          <span className="text-xl font-black tracking-tighter">ZMSystem</span>
         </div>
 
         <nav className="flex-1 px-4 py-4 space-y-1 overflow-y-auto hide-scrollbar">
