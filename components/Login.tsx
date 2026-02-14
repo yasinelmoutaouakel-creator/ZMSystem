@@ -87,7 +87,7 @@ export const Login: React.FC = () => {
           </form>
 
           <div className="mt-8 pt-8 border-t border-slate-100">
-             <p className="text-center text-[10px] text-slate-300 font-black uppercase tracking-widest">M&B Services</p>
+             <p className="text-center text-[10px] text-slate-300 font-black uppercase tracking-widest">Your Project in Your Hands</p>
           </div>
         </div>
       </div>
